@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalendarPager</string>
+    <string name="day_scroll_limit">Days more than %d days in the past or future cannot be selected!.</string>
+</resources>
